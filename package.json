@@ -1,0 +1,17 @@
+{
+  "name": "node-authentication",
+  "main": "server.js",
+  "dependencies" : {
+    "express" : "latest", 			
+    "ejs" : "*", 				
+    "mongoose": "latest",
+    "passport" : "*",
+    "passport-local" : "*", 	
+    "connect-flash" : "*",
+    "cookie-parser" : "*",
+    "express-Session" : "*",
+    "body-parser" : "*",
+    "bcrypt-nodejs" : "*",
+    "nodemon" : "*" 		
+  }
+}
